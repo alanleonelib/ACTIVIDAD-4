@@ -111,3 +111,17 @@ button:hover {
     display: none;
 
 }
+
+.completar_vacio {
+
+    font-size: 1rem;
+    display: none;
+
+}
+
+.email_incorrecto {
+
+    font-size: 1rem;
+    display: none;
+
+}
